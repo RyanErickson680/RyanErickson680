@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Check out more about me at [ryanerickson.site](ryanerickson.site)
+
+*^Work in progress...*
 <!--
 **RyanErickson680/RyanErickson680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
