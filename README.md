@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check out more about me at [ryanerickson.site](https://ryanerickson.site)
+Check out more about me at [ryanerickson.cv](https://ryanerickson.cv)
 
 *^Work in progress...*
 <!--
